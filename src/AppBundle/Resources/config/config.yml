@@ -1,0 +1,6 @@
+sylius_taxonomy:
+    classes:
+        taxon:
+            model: AppBundle\Entity\Taxon
+            translation: 
+                model: AppBundle\Entity\TaxonTranslation
